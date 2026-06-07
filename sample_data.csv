@@ -1,6 +1,0 @@
-id,first_name,last_name,email,signup_date,status,purchase_total
-1,John,Doe,john@example.com,2023-01-15,active,150.50
-2,Jane,Smith,jane@example.com,2023-02-20,inactive,0.00
-3,Alice,Johnson,alice@example.com,2023-03-05,active,340.25
-4,Bob,Brown,bob@example.com,2023-03-10,active,75.00
-5,Charlie,Davis,charlie@example.com,2023-04-01,pending,
